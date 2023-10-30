@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DML+tmEAiGMFYI46Tj/TGTeeOrrRQo8yWqXOvBwuxBE=",
+  "Source": "Tellus.API",
+  "BasePath": "_content/Tellus.API",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

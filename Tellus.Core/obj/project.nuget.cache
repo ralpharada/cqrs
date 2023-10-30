@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2v4kpoLDRvdWP0xhyKxx6IVSN+Ys586XXcz1CUqpxsaIdWp3uspmBwkTxF8T8bL2ISEGwI14adgyujW0sU9psA==",
+  "success": true,
+  "projectFilePath": "C:\\Projeto\\TellusSistema\\TellusSistema\\Tellus.Core\\Tellus.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tellus\\.nuget\\packages\\flunt\\2.0.3\\flunt.2.0.3.nupkg.sha512",
+    "C:\\Users\\Tellus\\.nuget\\packages\\flunt.br\\2.0.0\\flunt.br.2.0.0.nupkg.sha512",
+    "C:\\Users\\Tellus\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\Tellus\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,271 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projeto\\TellusAPI\\TellusAPI\\Gedai.API\\Gedai.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Projeto\\TellusAPI\\TellusAPI\\Gedai.API\\Gedai.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projeto\\TellusAPI\\TellusAPI\\Gedai.API\\Gedai.API.csproj",
+        "projectName": "Tellus.API",
+        "projectPath": "C:\\Projeto\\TellusAPI\\TellusAPI\\Gedai.API\\Gedai.API.csproj",
+        "packagesPath": "C:\\Users\\Tellus\\.nuget\\packages\\",
+        "outputPath": "C:\\Projeto\\TellusAPI\\TellusAPI\\Gedai.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tellus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Projeto\\TellusAPI\\TellusAPI\\Gedai.Application\\Gedai.Application.csproj": {
+                "projectPath": "C:\\Projeto\\TellusAPI\\TellusAPI\\Gedai.Application\\Gedai.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projeto\\TellusAPI\\TellusAPI\\Gedai.Application\\Gedai.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projeto\\TellusAPI\\TellusAPI\\Gedai.Application\\Gedai.Application.csproj",
+        "projectName": "Gedai.Application",
+        "projectPath": "C:\\Projeto\\TellusAPI\\TellusAPI\\Gedai.Application\\Gedai.Application.csproj",
+        "packagesPath": "C:\\Users\\Tellus\\.nuget\\packages\\",
+        "outputPath": "C:\\Projeto\\TellusAPI\\TellusAPI\\Gedai.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tellus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Projeto\\TellusAPI\\TellusAPI\\Gedai.Core\\Gedai.Core.csproj": {
+                "projectPath": "C:\\Projeto\\TellusAPI\\TellusAPI\\Gedai.Core\\Gedai.Core.csproj"
+              },
+              "C:\\Projeto\\TellusAPI\\TellusAPI\\Gedai.Domain\\Gedai.Domain.csproj": {
+                "projectPath": "C:\\Projeto\\TellusAPI\\TellusAPI\\Gedai.Domain\\Gedai.Domain.csproj"
+              },
+              "C:\\Projeto\\TellusAPI\\TellusAPI\\Gedai.Infra\\Gedai.Infra.csproj": {
+                "projectPath": "C:\\Projeto\\TellusAPI\\TellusAPI\\Gedai.Infra\\Gedai.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projeto\\TellusAPI\\TellusAPI\\Gedai.Core\\Gedai.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projeto\\TellusAPI\\TellusAPI\\Gedai.Core\\Gedai.Core.csproj",
+        "projectName": "Gedai.Core",
+        "projectPath": "C:\\Projeto\\TellusAPI\\TellusAPI\\Gedai.Core\\Gedai.Core.csproj",
+        "packagesPath": "C:\\Users\\Tellus\\.nuget\\packages\\",
+        "outputPath": "C:\\Projeto\\TellusAPI\\TellusAPI\\Gedai.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tellus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projeto\\TellusAPI\\TellusAPI\\Gedai.Domain\\Gedai.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projeto\\TellusAPI\\TellusAPI\\Gedai.Domain\\Gedai.Domain.csproj",
+        "projectName": "Gedai.Domain",
+        "projectPath": "C:\\Projeto\\TellusAPI\\TellusAPI\\Gedai.Domain\\Gedai.Domain.csproj",
+        "packagesPath": "C:\\Users\\Tellus\\.nuget\\packages\\",
+        "outputPath": "C:\\Projeto\\TellusAPI\\TellusAPI\\Gedai.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tellus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projeto\\TellusAPI\\TellusAPI\\Gedai.Infra\\Gedai.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projeto\\TellusAPI\\TellusAPI\\Gedai.Infra\\Gedai.Infra.csproj",
+        "projectName": "Gedai.Infra",
+        "projectPath": "C:\\Projeto\\TellusAPI\\TellusAPI\\Gedai.Infra\\Gedai.Infra.csproj",
+        "packagesPath": "C:\\Users\\Tellus\\.nuget\\packages\\",
+        "outputPath": "C:\\Projeto\\TellusAPI\\TellusAPI\\Gedai.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tellus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Projeto\\TellusAPI\\TellusAPI\\Gedai.Domain\\Gedai.Domain.csproj": {
+                "projectPath": "C:\\Projeto\\TellusAPI\\TellusAPI\\Gedai.Domain\\Gedai.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

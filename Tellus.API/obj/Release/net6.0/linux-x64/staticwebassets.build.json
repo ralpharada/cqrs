@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qiV4D4ujw657gu86yaoYMH8mCL9ActltmReigtQo2RI=",
+  "Source": "Tellus.API",
+  "BasePath": "_content/Tellus.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
